@@ -1,0 +1,3 @@
+module SwiftDJIDrone {
+    header "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/include/SwiftDJIDrone-Swift.h"
+}

@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/master.swiftdeps"
+  },
+  "/Users/rellonaut/Projects/swift-dji-drone/.build/checkouts/swift-nio/Sources/_NIOConcurrency/Empty.swift": {
+    "dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.d",
+    "object": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.swift.o",
+    "swiftmodule": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty~partial.swiftmodule",
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.swiftdeps",
+    "diagnostics": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.dia"
+  }
+}

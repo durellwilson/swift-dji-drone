@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/master.swiftdeps"
+  },
+  "/Users/rellonaut/Projects/swift-dji-drone/Sources/SwiftDJIDrone/AutonomousController.swift": {
+    "dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/AutonomousController.d",
+    "object": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/AutonomousController.swift.o",
+    "swiftmodule": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/AutonomousController~partial.swiftmodule",
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/AutonomousController.swiftdeps",
+    "diagnostics": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/AutonomousController.dia"
+  },
+  "/Users/rellonaut/Projects/swift-dji-drone/Sources/SwiftDJIDrone/DroneConnection.swift": {
+    "dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/DroneConnection.d",
+    "object": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/DroneConnection.swift.o",
+    "swiftmodule": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/DroneConnection~partial.swiftmodule",
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/DroneConnection.swiftdeps",
+    "diagnostics": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/DroneConnection.dia"
+  },
+  "/Users/rellonaut/Projects/swift-dji-drone/Sources/SwiftDJIDrone/SafetyController.swift": {
+    "dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/SafetyController.d",
+    "object": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/SafetyController.swift.o",
+    "swiftmodule": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/SafetyController~partial.swiftmodule",
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/SafetyController.swiftdeps",
+    "diagnostics": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/SafetyController.dia"
+  },
+  "/Users/rellonaut/Projects/swift-dji-drone/Sources/SwiftDJIDrone/VisionController.swift": {
+    "dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/VisionController.d",
+    "object": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/VisionController.swift.o",
+    "swiftmodule": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/VisionController~partial.swiftmodule",
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/VisionController.swiftdeps",
+    "diagnostics": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDrone.build/VisionController.dia"
+  }
+}

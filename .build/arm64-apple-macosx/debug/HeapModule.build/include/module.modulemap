@@ -1,0 +1,3 @@
+module HeapModule {
+    header "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/HeapModule.build/include/HeapModule-Swift.h"
+}

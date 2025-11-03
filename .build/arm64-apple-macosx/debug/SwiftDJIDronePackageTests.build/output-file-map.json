@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDronePackageTests.build/master.swiftdeps"
+  },
+  "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDronePackageTests.derived/runner.swift": {
+    "dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDronePackageTests.build/runner.d",
+    "object": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDronePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDronePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDronePackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDronePackageTests.build/runner.dia"
+  }
+}

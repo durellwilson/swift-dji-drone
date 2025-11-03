@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/rellonaut/Projects/swift-dji-drone/.build/checkouts/swift-nio/Sources/_NIOFileSystemFoundationCompat/Data+FileSystem.swift": {
+    "dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Data+FileSystem.d",
+    "object": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Data+FileSystem.swift.o",
+    "swiftmodule": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Data+FileSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Data+FileSystem.swiftdeps",
+    "diagnostics": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Data+FileSystem.dia"
+  },
+  "/Users/rellonaut/Projects/swift-dji-drone/.build/checkouts/swift-nio/Sources/_NIOFileSystemFoundationCompat/Date+FileInfo.swift": {
+    "dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Date+FileInfo.d",
+    "object": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Date+FileInfo.swift.o",
+    "swiftmodule": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Date+FileInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Date+FileInfo.swiftdeps",
+    "diagnostics": "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Date+FileInfo.dia"
+  }
+}

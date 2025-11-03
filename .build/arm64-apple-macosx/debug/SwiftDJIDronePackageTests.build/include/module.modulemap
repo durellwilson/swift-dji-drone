@@ -1,0 +1,3 @@
+module SwiftDJIDronePackageTests {
+    header "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/SwiftDJIDronePackageTests.build/include/SwiftDJIDronePackageTests-Swift.h"
+}

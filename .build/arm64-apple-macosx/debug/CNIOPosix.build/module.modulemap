@@ -1,0 +1,4 @@
+module CNIOPosix {
+    umbrella header "/Users/rellonaut/Projects/swift-dji-drone/.build/checkouts/swift-nio/Sources/CNIOPosix/include/CNIOPosix.h"
+    export *
+}

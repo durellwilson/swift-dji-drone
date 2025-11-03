@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/rellonaut/Projects/swift-dji-drone/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}

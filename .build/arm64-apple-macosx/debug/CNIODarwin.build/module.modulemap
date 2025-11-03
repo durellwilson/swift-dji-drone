@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella header "/Users/rellonaut/Projects/swift-dji-drone/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+    export *
+}

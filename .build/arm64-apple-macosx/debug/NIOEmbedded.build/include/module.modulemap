@@ -1,0 +1,3 @@
+module NIOEmbedded {
+    header "/Users/rellonaut/Projects/swift-dji-drone/.build/arm64-apple-macosx/debug/NIOEmbedded.build/include/NIOEmbedded-Swift.h"
+}

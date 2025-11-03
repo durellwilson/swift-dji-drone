@@ -1,0 +1,4 @@
+module CNIOWASI {
+    umbrella header "/Users/rellonaut/Projects/swift-dji-drone/.build/checkouts/swift-nio/Sources/CNIOWASI/include/CNIOWASI.h"
+    export *
+}
